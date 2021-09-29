@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/havachi/source/copycraft'
+make: 'copycraft' is up to date.
+make: Leaving directory '/home/havachi/source/copycraft'
+ 
